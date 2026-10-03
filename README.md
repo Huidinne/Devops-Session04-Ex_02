@@ -1,3 +1,3 @@
 # PTIT DevOps Course
 
-Nội dung: Học Git cơ bản.
+Nội dung: Cập nhật tài liệu hướng dẫn.
